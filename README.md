@@ -1,5 +1,5 @@
 # Maximum-X-power-2-using-Genetic-Algorithm
-In this project, I trying to find the maximum F(x) = x^2 over the interval 0-255, we can represent each possible solution as a binary string of 8 bits. 
+In this project, I am trying to find the maximum F(x) = x^2 over the interval 0-255, we can represent each possible solution as a binary string of 8 bits. 
 
 
 An example of running the program:
